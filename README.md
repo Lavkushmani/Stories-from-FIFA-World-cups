@@ -1,2 +1,2 @@
-# fifawc
-Big Data Visual Analytics Course Project
+# Stories from the FIFA World Cups
+#### CS661 Course Project (2022-23 II Semester)
